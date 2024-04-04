@@ -21,3 +21,6 @@ Used donut chart to know the under five deaths by country and status and used fi
 12. Used donut chart to know the Infant deaths by country and status and used filter in it to show the top 5 country on the basis of infant death.
 13. Used Stacked column chart to know the Country wise population.
 14. Used Stacked column chart to know the Country and status wise schooling.
+
+
+The dataset analysis focused on life expectancy, involving data transformation, cleaning, and processing to create an interactive dashboard. Project learnings included utilizing slicers, word cloud charts for country-wise life expectancy, KPIs for various metrics like life expectancy and BMI, and various visualizations such as stacked column, matrix, combine, pie, and donut charts.
